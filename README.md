@@ -1,4 +1,4 @@
-# TIL (Today I Learned) Physics - ナレッジベース インデックス
+# TIL (Today I Learned) Physics
 
 > [!NOTE]
 > 物理学関連の学習内容を体系的に整理したナレッジベースです。
